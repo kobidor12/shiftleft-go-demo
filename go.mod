@@ -10,4 +10,5 @@ require (
 	github.com/tidwall/gjson v1.9.2
 	github.com/tidwall/match v1.1.1 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
+	github.com/boombuler/barcode v1.0.0
 )
